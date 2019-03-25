@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 aaaaaaaaasssssss
-=======
-aaaaaaaaa:
 111111111111
->>>>>>> 7614969... Update ljs.txt
+22222222222
+33333333
